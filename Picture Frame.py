@@ -4,7 +4,7 @@ import os.path
 import PIL.ImageDraw            
 
 def round_corners_one_image(original_image, percent_of_side=.1):
-    """ Rounds the corner of a PIL.Image
+    """ Rounds the corner of a PIL.Image peepee
     
     original_image must be a PIL.Image
     Returns a new PIL.Image with rounded corners, where
